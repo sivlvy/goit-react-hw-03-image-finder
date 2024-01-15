@@ -1,6 +1,6 @@
 import { Formik } from 'formik';
 import { SearchBar, Button, Form, Input } from './SearchBar.styled';
-import { BeSearchAlt, BiSearchAlt } from 'react-icons/bi';
+import {  BiSearchAlt } from 'react-icons/bi';
 import { Notify } from 'notiflix';
 
 export const Searchbar = ({ onSubmit }) => {
